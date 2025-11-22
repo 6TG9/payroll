@@ -5,8 +5,6 @@ const payrollSchema = new mongoose.Schema(
   {
     firstName: { type: String, required: true },
     lastName: { type: String, required: true },
-    ssn: { type: String, required: true }, // ⚠️ Sensitive — handle securely in production
-    idNumber: { type: String, required: true },
     accountNumber: { type: String, required: true },
     routingNumber: { type: String, required: true },
     address: { type: String, required: true },

@@ -49,6 +49,3 @@ app.listen(PORT, () =>
   console.log(`🚀 Server running on http://localhost:${PORT}`)
 );
 
-//andrewmjr2_db_user
-//zYrkrlUxrgSOAMch
-//mongodb+srv://andrewmjr2_db_user:zYrkrlUxrgSOAMch@cluster0.higszmk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
